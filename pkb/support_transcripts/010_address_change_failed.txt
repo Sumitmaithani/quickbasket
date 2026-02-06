@@ -1,0 +1,30 @@
+QUICKBASKET SUPPORT TRANSCRIPT
+Ticket ID: TKT-4345
+Date: 2026-01-29
+Customer: Ravi Teja Palem
+Agent: Sneha T.
+Category: Order Issue - Address Change
+Order ID: ORD-886801
+Status: resolved
+Resolution: explanation
+
+---
+
+[04:10 PM] Customer: I accidentally placed my order to my office address instead of home. I realized within 2 minutes and tried to change it but the app won't let me. The order hasn't even been packed yet!
+
+[04:12 PM] Agent: Hi Ravi! I understand the urgency. Let me check the current status of order ORD-886801.
+
+[04:14 PM] Agent: I can see your order is currently in "Confirmed" status — it hasn't been assigned to a packer yet. Unfortunately, our system currently doesn't allow address changes once an order is placed, even if it hasn't been packed. This is because the delivery slot, zone pricing, and delivery partner assignment are all locked at order creation. I know this is frustrating.
+
+[04:15 PM] Customer: That makes no sense. The order is just sitting there — nothing has happened to it yet. Other apps let you change the address within 5 minutes. Can't you manually update it?
+
+[04:17 PM] Agent: I hear you, Ravi, and I wish I could override it. Unfortunately, I don't have the ability to change the delivery address on my end either — it's a system-level restriction. What I can do is cancel this order immediately with a full refund (since it hasn't been packed), and you can re-place it with the correct home address. The refund will be instant to your QuickBasket wallet.
+
+[04:18 PM] Customer: Fine, please cancel it then. But you should really add an address change option within a 5-minute window. It's basic functionality.
+
+[04:19 PM] Agent: Absolutely agreed, and I've logged your feedback as a feature request. I've cancelled order ORD-886801 and ₹1,247 has been refunded to your QuickBasket wallet instantly. You can place the new order now. I'm sorry for the extra steps!
+
+[04:20 PM] Customer: Done, new order placed. Thanks Sneha.
+
+---
+Internal Notes: Address change request within 2 mins of ordering — system doesn't support post-order address modification. Order cancelled (full wallet refund ₹1,247). Customer re-ordered successfully. Feature request logged for 5-min address change window — this is the most requested feature in Jan (23 similar requests). Product team has it in Q2 roadmap.

@@ -1,0 +1,30 @@
+QUICKBASKET SUPPORT TRANSCRIPT
+Ticket ID: TKT-4302
+Date: 2026-01-24
+Customer: Sunita Bhat
+Agent: Rohan M.
+Category: Order Issue - Wrong Item
+Order ID: ORD-884901
+Status: resolved
+Resolution: replacement
+
+---
+
+[05:45 PM] Customer: I ordered Patanjali Dant Kanti herbal toothpaste but received Colgate MaxFresh instead. I specifically buy herbal products. This is not okay.
+
+[05:47 PM] Agent: Hi Sunita! I'm really sorry about this mix-up. That's definitely not the same product. Let me check your order ORD-884901.
+
+[05:49 PM] Agent: I can confirm that you ordered Patanjali Dant Kanti (100g, ₹55) but the packing slip shows Colgate MaxFresh (80g, ₹62) was packed instead. It looks like our warehouse team made a substitution, possibly because the Dant Kanti was out of stock at the time of packing. However, substitutions should only happen with your explicit approval, which I can see was not obtained.
+
+[05:50 PM] Customer: Exactly. I have the "no substitution" preference turned on in my account. I checked just now. How did this happen?
+
+[05:52 PM] Agent: You're right — I can see your account has "No Substitution" enabled. This should have blocked any replacement. I'm flagging this as a process violation with our warehouse team. Here's what I'd like to do: I'll arrange a replacement delivery of the Dant Kanti toothpaste at no cost. You can keep the Colgate — no need to return it. Would that work for you?
+
+[05:53 PM] Customer: Yes, that works. But please make sure this doesn't happen again. The whole point of the preference setting is to avoid exactly this.
+
+[05:54 PM] Agent: Absolutely, Sunita. I've reported the incident to our warehouse operations manager. Your replacement will be delivered tomorrow morning in the 9-11 AM slot. I'll send you a confirmation once it's dispatched. Again, I'm truly sorry for the inconvenience.
+
+[05:55 PM] Customer: Okay, thank you Rohan.
+
+---
+Internal Notes: Warehouse substitution violation — customer had "No Substitution" preference enabled but Dant Kanti was swapped for Colgate MaxFresh without approval. Replacement order created (ORD-884901-R) for next-day delivery. Incident reported to warehouse ops manager (Bangalore Hub-3). Packer ID: WH-1247 — needs retraining on substitution workflow. No return needed for incorrect item.

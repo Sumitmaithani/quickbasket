@@ -1,0 +1,30 @@
+QUICKBASKET SUPPORT TRANSCRIPT
+Ticket ID: TKT-4493
+Date: 2026-02-06
+Customer: Vivek Kapoor
+Agent: Nisha D.
+Category: Coupons & Discounts
+Order ID: N/A
+Status: resolved
+Resolution: explanation
+
+---
+
+[12:10 PM] Customer: I'm seeing a MEMBER100 coupon on the coupons page that says "Flat ₹100 off on orders above ₹500." When I try to apply it, it says "This coupon is only for QuickBasket Plus members." Why are you showing me coupons I can't even use? It feels like a trap to get me to buy membership.
+
+[12:12 PM] Agent: Hi Vivek! I understand how that can feel misleading. Let me explain how the coupon visibility works and share your feedback.
+
+[12:14 PM] Agent: The MEMBER100 coupon is indeed exclusive to QuickBasket Plus members. It's shown to all users on the coupons page as a way to highlight the benefits of the Plus membership. The coupon does have a "Plus Members Only" tag on it, but I agree it's easy to miss — especially since the coupon appears in the same list as ones you can use.
+
+[12:15 PM] Customer: I didn't see any tag. And even if there is one, showing me coupons I can't use and then telling me AFTER I try to apply them is bad design. Either hide them or make the restriction super obvious.
+
+[12:17 PM] Agent: You're making a really valid point, Vivek. Showing unusable coupons mixed with usable ones creates frustration and erodes trust — the opposite of what we want. I'm filing this as a UX issue with our product team. The suggestion to either clearly separate member-only coupons or hide them from non-members is great feedback.
+
+[12:18 PM] Customer: Thanks. I'm not against the membership, but I don't like feeling tricked into it. If the membership is worth it, sell it on its merits.
+
+[12:19 PM] Agent: That's a very fair perspective, Vivek. I'll make sure to include your exact words in the feedback — "sell it on its merits." If you ever want to explore Plus, you can check the Membership page for all the benefits. But no pressure at all. Is there anything else I can help with?
+
+[12:20 PM] Customer: No, that's all. Thanks Nisha.
+
+---
+Internal Notes: MEMBER100 coupon visibility to non-members causing frustration. "Plus Members Only" tag exists but is not prominent enough. Customer felt baited into considering membership. UX feedback filed — recommend: (1) separate section for member-only coupons, (2) clearer visual distinction, (3) show "Unlock with Plus" instead of apply button for non-members. Product team tagged. Marketing team should review coupon visibility strategy.

@@ -1,0 +1,30 @@
+QUICKBASKET SUPPORT TRANSCRIPT
+Ticket ID: TKT-4228
+Date: 2026-01-14
+Customer: Meera Joshi
+Agent: Amit K.
+Category: Coupons & Discounts
+Order ID: ORD-883102
+Status: resolved
+Resolution: credit
+
+---
+
+[11:30 AM] Customer: I tried applying the WEEKEND30 coupon on my order but it just said "coupon cannot be applied" with no explanation. The banner on the home page is literally showing this coupon right now!
+
+[11:32 AM] Agent: Hi Meera! I apologize for the confusion. Let me look into the WEEKEND30 coupon and your order details.
+
+[11:34 AM] Agent: I've checked and found the issue. The WEEKEND30 coupon requires a minimum cart value of ₹599. Your current cart total is ₹542. The coupon is valid, but the minimum spend threshold wasn't met. I agree that the error message should have been much clearer about this.
+
+[11:35 AM] Customer: That's so annoying. The banner doesn't mention any minimum amount. It just says "30% off this weekend!" How am I supposed to know?
+
+[11:37 AM] Agent: You're right, and I appreciate you pointing this out. The terms are in the fine print on the coupon detail page, but they should definitely be more visible on the banner itself. I'm logging this as a UX improvement request. For now, would you like to add an item worth ₹57 or more to your cart to qualify? Or I can apply a ₹50 credit to your account as an apology for the confusing experience.
+
+[11:38 AM] Customer: I'll take the credit. I don't want to add things I don't need just to hit a threshold. But seriously, please fix that banner. It feels like a bait.
+
+[11:39 AM] Agent: Completely understood, Meera. I've applied ₹50 credit to your account — it's available immediately. And I've filed the feedback about the banner with our marketing and design teams. Thank you for helping us improve!
+
+[11:40 AM] Customer: Thanks Amit. That was quick at least.
+
+---
+Internal Notes: WEEKEND30 coupon — min cart ₹599 not met (cart was ₹542). Error message was generic "coupon cannot be applied" with no reason shown. ₹50 credit issued. UX ticket filed for clearer coupon error messages and banner terms visibility. This is the 8th complaint about vague coupon errors this week — needs priority fix.

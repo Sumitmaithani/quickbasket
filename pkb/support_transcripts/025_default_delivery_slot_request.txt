@@ -1,0 +1,30 @@
+QUICKBASKET SUPPORT TRANSCRIPT
+Ticket ID: TKT-4545
+Date: 2026-02-06
+Customer: Shalini Mehta
+Agent: Vikram P.
+Category: Feature Request
+Order ID: N/A
+Status: open
+Resolution: pending
+
+---
+
+[09:30 AM] Customer: Hi, this isn't a complaint — more of a suggestion. I order groceries every Saturday morning and I always pick the 10 AM - 12 PM delivery slot. Is there a way to set a default delivery slot so I don't have to select it every single time?
+
+[09:32 AM] Agent: Hi Shalini! Thanks for reaching out, and I love that you're a regular Saturday shopper! That's a great suggestion. Currently, there isn't a way to set a default delivery slot — you have to select one each time you check out.
+
+[09:33 AM] Customer: Yeah, I figured. It's not a big deal, but it would save time especially for people like me who have a routine. Maybe even a "repeat last order" button that copies the slot too?
+
+[09:35 AM] Agent: Those are both excellent ideas — a default delivery slot AND a "repeat last order" feature that includes the time preference. We actually do have a "Reorder" button on past orders, but it only copies the items to your cart, not the delivery slot or payment method. Your suggestion to include the full order context (slot + payment) would make it much more useful.
+
+[09:36 AM] Customer: Exactly! The reorder button is nice but it's only half the job. If I'm doing the same order every week, I want one-tap reorder that copies everything.
+
+[09:38 AM] Agent: I've logged both suggestions as feature requests: (1) Default delivery slot preference in account settings, and (2) Enhanced reorder that copies delivery slot and payment method. I've also noted your use case as a weekly recurring order pattern. I can't promise a timeline, but these will be reviewed by our product team in the next planning cycle.
+
+[09:39 AM] Customer: That's all I can ask for. Thanks for taking it seriously, Vikram!
+
+[09:39 AM] Agent: Thank you for the thoughtful suggestions, Shalini! Customers who take the time to share ideas help us build a better app. Have a wonderful Saturday!
+
+---
+Internal Notes: Feature request: (1) Default delivery slot in account settings, (2) Enhanced reorder flow — copy delivery slot + payment method along with items. Customer is a weekly recurring user (every Saturday, 10-12 PM slot). Current "Reorder" only copies cart items. Both requests logged in JIRA PROD-1860 and PROD-1861. Product team to review in Feb sprint planning. These features could improve retention for habitual users — recommend prioritizing.

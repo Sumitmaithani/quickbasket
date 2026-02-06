@@ -1,0 +1,30 @@
+QUICKBASKET SUPPORT TRANSCRIPT
+Ticket ID: TKT-4358
+Date: 2026-01-30
+Customer: Neha Kulkarni
+Agent: Vikram P.
+Category: Membership - Benefits Issue
+Order ID: ORD-887310
+Status: resolved
+Resolution: credit
+
+---
+
+[11:00 AM] Customer: I subscribed to QuickBasket Plus yesterday for ₹149/month. But my order today still shows a ₹29 delivery fee and I don't see the 5% member discount anywhere. What's the point of paying for membership?
+
+[11:02 AM] Agent: Hi Neha! Welcome to QuickBasket Plus, and I'm sorry the benefits aren't showing up. Let me investigate this immediately.
+
+[11:05 AM] Agent: I found the issue. Your Plus subscription was activated at 8:47 PM yesterday, but there's a known sync delay where membership benefits can take up to 6 hours to propagate across all services. Your order ORD-887310 was placed at 10:30 AM today, which should have been well within the activation window. Let me check further.
+
+[11:07 AM] Agent: Okay, I've identified the root cause. Your membership activated correctly, but the benefits engine didn't pick it up for your order due to a caching issue on our backend. This is a bug and I'm reporting it to engineering. In the meantime, let me make this right.
+
+[11:08 AM] Customer: So I paid ₹149 for benefits that don't actually work? That's concerning.
+
+[11:10 AM] Agent: I completely understand your concern, Neha. Here's what I've done: (1) Manually refreshed your membership status — benefits should now be active for all future orders, (2) Applied ₹29 credit for the delivery fee you shouldn't have been charged, (3) Applied an additional ₹62 credit for the 5% discount you missed on this order (₹1,240 cart × 5%). Total ₹91 credit added to your account.
+
+[11:11 AM] Customer: Okay, that covers it. But please make sure it works going forward. I don't want to check the math on every order.
+
+[11:12 AM] Agent: Absolutely, Neha. I've verified that your Plus badge is now showing correctly in the system. Your next order should automatically show free delivery and the 5% discount. If anything seems off, please don't hesitate to reach out. Enjoy your Plus benefits!
+
+---
+Internal Notes: Plus membership benefits not applied due to caching bug — membership activated 8:47 PM Jan 29, order placed 10:30 AM Jan 30. Benefits engine cache stale. Manual cache refresh done. ₹91 total credit applied (₹29 delivery + ₹62 discount). Bug reported to engineering — JIRA ENG-2904. 6th occurrence this week, affects ~2% of new Plus subscribers.

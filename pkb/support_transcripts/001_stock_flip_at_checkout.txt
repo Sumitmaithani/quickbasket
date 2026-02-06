@@ -1,0 +1,32 @@
+QUICKBASKET SUPPORT TRANSCRIPT
+Ticket ID: TKT-4201
+Date: 2026-01-08
+Customer: Priya Sharma
+Agent: Rohan M.
+Category: Order Issue - Stock Availability
+Order ID: ORD-881204
+Status: resolved
+Resolution: credit
+
+---
+
+[10:14 AM] Customer: Hi, I just placed an order and noticed that mushrooms were removed from my bag at the last second. They were showing in stock when I added them!
+
+[10:16 AM] Agent: Hello Priya! I'm sorry about that. Let me pull up your order ORD-881204 and check what happened with the mushrooms.
+
+[10:17 AM] Agent: I can see that 200g Button Mushrooms (₹45) were in your cart but got flagged as out-of-stock during the packing stage. Our warehouse team couldn't fulfill that item. Unfortunately, this sometimes happens when the last unit gets allocated to another order being packed simultaneously.
+
+[10:18 AM] Customer: That's really frustrating. I was planning dinner around those mushrooms. Why does the app show "in stock" if it's not actually available?
+
+[10:20 AM] Agent: I completely understand your frustration, Priya. Our inventory syncs every few minutes, but during high-demand periods there can be a small lag. We're actively working on real-time stock locks at the cart stage to prevent this. As a gesture of goodwill, I've added ₹50 QuickBasket credit to your account, which is more than the mushroom cost.
+
+[10:21 AM] Customer: Okay, I appreciate the credit. But please fix this — it's happened to me twice now. It throws off my whole meal plan.
+
+[10:22 AM] Agent: Absolutely noted, Priya. I've flagged this as a repeat issue on your account, and I'm escalating the feedback to our product team. You'll see the ₹50 credit reflected within the next few minutes. Is there anything else I can help with?
+
+[10:23 AM] Customer: No, that's all. Thanks for the quick response.
+
+[10:23 AM] Agent: You're welcome! Happy cooking, Priya. Have a great day!
+
+---
+Internal Notes: Repeat stock-flip issue for this customer (2nd occurrence in 30 days). ₹50 credit applied. Escalated to product team RE: real-time inventory lock feature. Warehouse sync lag confirmed — mushrooms went OOS at 10:11 AM, 3 mins before customer contacted support.

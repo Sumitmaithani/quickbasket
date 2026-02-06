@@ -1,0 +1,32 @@
+QUICKBASKET SUPPORT TRANSCRIPT
+Ticket ID: TKT-4532
+Date: 2026-02-06
+Customer: Rohini Chatterjee
+Agent: Sneha T.
+Category: Coupons & Discounts
+Order ID: ORD-893150
+Status: resolved
+Resolution: credit
+
+---
+
+[02:45 PM] Customer: I applied the FRESH15 coupon which says "15% off on fruits and vegetables." My fruits and veggies total is ₹340, so I expected ₹51 off. But the discount applied was only ₹45. Where did the other ₹6 go?
+
+[02:47 PM] Agent: Hi Rohini! Good eye on the math. Let me break down the discount calculation for your order ORD-893150.
+
+[02:50 PM] Agent: I've reviewed the bill. Your fruits and vegetables items total ₹340, but the FRESH15 coupon excludes "organic" and "imported" category items. Your order includes Organic Spinach (₹40), which falls under the organic exclusion. So the eligible amount is ₹340 - ₹40 = ₹300. 15% of ₹300 = ₹45, which matches the discount applied.
+
+[02:51 PM] Customer: Wait, the coupon description just says "15% off on fruits and vegetables." It doesn't say anything about excluding organic items. Where does it mention that?
+
+[02:53 PM] Agent: You're right that the main coupon text doesn't mention it. The exclusion is listed in the "Terms & Conditions" section which you can access by tapping the small (i) icon next to the coupon. I agree this is not transparent enough — ₹6 difference might seem small, but it creates distrust when the math doesn't add up to what you'd expect.
+
+[02:54 PM] Customer: Exactly. If there are exclusions, they should be right there in the description. Not hidden behind a tiny icon. I spent 5 minutes trying to figure out why the numbers were off.
+
+[02:55 PM] Agent: Completely valid feedback, Rohini. I'm logging this with our product team — coupon exclusions should be visible in the description itself, not buried in T&C. As a goodwill gesture, I'm adding ₹10 credit to your account (more than the ₹6 difference). And I appreciate you doing the math — customers like you help us find these transparency gaps.
+
+[02:56 PM] Customer: Thanks Sneha. It's not about ₹6 — it's about trusting the app's numbers.
+
+[02:56 PM] Agent: Couldn't agree more. Trust is everything. Have a great day, Rohini!
+
+---
+Internal Notes: FRESH15 coupon — 15% discount excludes organic & imported items. Customer's organic spinach (₹40) excluded from eligible amount, resulting in ₹45 discount instead of expected ₹51. Exclusion only visible in T&C (behind info icon). ₹10 credit applied. UX feedback filed: coupon descriptions must surface key exclusions prominently. This is the 6th complaint about hidden coupon exclusions in Feb — recurring pattern that needs addressing.

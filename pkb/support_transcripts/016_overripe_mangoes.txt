@@ -1,0 +1,30 @@
+QUICKBASKET SUPPORT TRANSCRIPT
+Ticket ID: TKT-4425
+Date: 2026-02-04
+Customer: Pooja Iyer
+Agent: Amit K.
+Category: Product Quality
+Order ID: ORD-890112
+Status: resolved
+Resolution: refund
+
+---
+
+[06:15 PM] Customer: I ordered Alphonso mangoes (1kg box, ₹450) and they are completely overripe. Two of them are mushy and have brown spots, and one has started fermenting — I can smell it. These are not edible. I'm attaching photos.
+
+[06:17 PM] Agent: Hi Pooja! I'm really sorry to hear about the mangoes. Alphonso season deliveries need to be handled carefully and clearly this batch wasn't up to standard. Let me review the photos and your order.
+
+[06:19 PM] Agent: I've reviewed the photos and I can see the overripening clearly. This is a quality control issue — these mangoes should not have passed our freshness check before packing. I'm processing a full refund of ₹450 for the mangoes immediately.
+
+[06:20 PM] Customer: A refund is fine, but I bought these for a dinner party tomorrow. I specifically ordered a day in advance so they'd be perfect. Is there any way to get a replacement delivered tonight or early tomorrow morning?
+
+[06:22 PM] Agent: I understand how important this is for your dinner party, Pooja. Let me check stock at our nearest hub. One moment please.
+
+[06:24 PM] Agent: Great news — we have Alphonso mangoes in stock at our Jayanagar hub, and I've arranged a priority replacement delivery for tomorrow morning between 8-9 AM, well before any dinner prep. I've personally flagged this for the quality team to hand-pick the best ones. The replacement is completely free of charge.
+
+[06:25 PM] Customer: Oh that's wonderful! 8-9 AM works perfectly. Thank you so much Amit. I was really stressed about this.
+
+[06:26 PM] Agent: Happy to help, Pooja! I'll also process the ₹450 refund for the original batch — so you get the replacement free plus the refund. Enjoy your dinner party! 🥭
+
+---
+Internal Notes: Alphonso mangoes 1kg (₹450) — overripe and partially fermenting. QC failure at warehouse. Full refund processed (RFD-20260204-4425). Priority replacement from Jayanagar hub scheduled for Feb 5, 8-9 AM slot. QC team notified — mango batch MNG-2026-0204 needs audit. Vendor: Ratnagiri Fresh Farms. This is the 3rd mango quality complaint from this vendor this week — recommend vendor quality review.

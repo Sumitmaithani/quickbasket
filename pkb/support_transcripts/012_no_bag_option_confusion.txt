@@ -1,0 +1,30 @@
+QUICKBASKET SUPPORT TRANSCRIPT
+Ticket ID: TKT-4372
+Date: 2026-02-01
+Customer: Aarav Deshmukh
+Agent: Kavitha S.
+Category: Packaging - Eco Options
+Order ID: ORD-888105
+Status: resolved
+Resolution: explanation
+
+---
+
+[07:30 PM] Customer: I selected the "No Bag" option during checkout because I wanted to reduce plastic waste. But my order arrived in a plastic carry bag. What's the point of having the option if you don't follow it?
+
+[07:32 PM] Agent: Hi Aarav! Thank you for making the eco-friendly choice, and I'm sorry it wasn't honored. Let me look into your order ORD-888105.
+
+[07:34 PM] Agent: I checked with the warehouse team and here's what happened: the "No Bag" option means we won't add an outer carry bag to bundle your items. However, individual products that come in their original manufacturer plastic packaging (like milk pouches, sealed dal packets, etc.) are still delivered as-is. The plastic you're seeing is the product packaging, not something we added.
+
+[07:35 PM] Customer: Hmm, I see. But the app makes it sound like the whole delivery will be plastic-free. The option literally has a leaf icon and says "Go plastic-free." That's misleading.
+
+[07:37 PM] Agent: You make a very fair point, Aarav. "Go plastic-free" does imply the entire delivery would be free of plastic, when in reality we can only control our own packaging, not the manufacturer's. I'm flagging this to our sustainability and design teams to update the wording to something more accurate like "No added packaging" or "Skip the carry bag."
+
+[07:38 PM] Customer: Yeah, something more honest would be better. I appreciate you actually listening to the feedback instead of just dismissing it.
+
+[07:39 PM] Agent: Of course! Feedback like yours is how we improve. Thank you for caring about sustainability, Aarav. We're also exploring partnerships with brands that use compostable packaging — hopefully we can offer a truly plastic-free option in the future. Is there anything else I can help with?
+
+[07:40 PM] Customer: No, that's all. Thanks Kavitha.
+
+---
+Internal Notes: "No Bag" option confusion — customer expected plastic-free delivery but received items in original manufacturer plastic packaging. Our "No Bag" only skips the outer carry bag. Wording "Go plastic-free" is misleading — flagged for design team to revise copy. Sustainability team notified. No refund/credit needed — customer satisfied with explanation.

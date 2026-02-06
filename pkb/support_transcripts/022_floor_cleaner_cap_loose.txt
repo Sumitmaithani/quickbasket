@@ -1,0 +1,30 @@
+QUICKBASKET SUPPORT TRANSCRIPT
+Ticket ID: TKT-4506
+Date: 2026-02-06
+Customer: Shreya Pillai
+Agent: Amit K.
+Category: Order Issue - Damaged Item
+Order ID: ORD-892340
+Status: resolved
+Resolution: replacement
+
+---
+
+[04:30 PM] Customer: The Lizol floor cleaner bottle I ordered has a loose cap. It leaked a little inside the delivery bag — not a lot, but enough to get on the outside of my rice packet. The cap doesn't click shut properly.
+
+[04:32 PM] Agent: Hi Shreya! I'm sorry about the leak. Let me check your order ORD-892340. Is the floor cleaner bottle still usable, or did it lose a significant amount?
+
+[04:33 PM] Customer: It's mostly full, maybe lost 10-15ml. But I don't trust the cap — if I store it horizontally or it tips over, it'll leak everywhere. And the rice packet smells like citrus floor cleaner now. I can't use that rice.
+
+[04:35 PM] Agent: I completely understand. A faulty cap makes the product unreliable, and the rice being affected makes it worse. Here's what I'll do: I'm arranging a replacement for both the Lizol Floor Cleaner (₹199) and the Basmati Rice 1kg (₹165) at no cost. The replacement will come in tomorrow's morning slot (8-10 AM).
+
+[04:36 PM] Customer: What about the leaked bottle? Should I return it?
+
+[04:37 PM] Agent: No need to return it, Shreya. You can keep or dispose of it as you see fit. I'd just recommend storing it upright for now if you want to use it. The replacement order is confirmed (ORD-892340-R) and I've added a note for extra careful packing with the bottle sealed in a separate zip bag. Is there anything else?
+
+[04:38 PM] Customer: No, that's great. Thanks Amit. Quick and easy.
+
+[04:38 PM] Agent: Happy to help, Shreya! Sorry again for the hassle. Have a good evening!
+
+---
+Internal Notes: Lizol Floor Cleaner — loose/defective cap, minor leak (~10-15ml). Leaked onto Basmati Rice packet (customer won't use it due to chemical smell). Replacement for both items: Lizol ₹199 + Rice ₹165 = ₹364. ORD-892340-R created. No return required. Manufacturer defect likely — cap not sealed properly. Report to procurement team for this Lizol batch. Recommend zip-bag packing for all liquid cleaning products.
