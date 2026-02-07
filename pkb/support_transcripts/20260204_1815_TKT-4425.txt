@@ -24,7 +24,7 @@ Resolution: refund
 
 [06:25 PM] Customer: Oh that's wonderful! 8-9 AM works perfectly. Thank you so much Amit. I was really stressed about this.
 
-[06:26 PM] Agent: Happy to help, Pooja! I'll also process the ₹450 refund for the original batch — so you get the replacement free plus the refund. Enjoy your dinner party! 🥭
+[06:26 PM] Agent: Happy to help, Pooja! I'll also process the ₹450 refund for the original batch — so you get the replacement free plus the refund. Enjoy your dinner party!
 
 ---
 Internal Notes: Alphonso mangoes 1kg (₹450) — overripe and partially fermenting. QC failure at warehouse. Full refund processed (RFD-20260204-4425). Priority replacement from Jayanagar hub scheduled for Feb 5, 8-9 AM slot. QC team notified — mango batch MNG-2026-0204 needs audit. Vendor: Ratnagiri Fresh Farms. This is the 3rd mango quality complaint from this vendor this week — recommend vendor quality review.

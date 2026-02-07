@@ -1,0 +1,28 @@
+QUICKBASKET SUPPORT TRANSCRIPT
+Ticket ID: TKT-4260
+Date: 2026-01-19
+Customer: Arjun Bose
+Agent: Amit K.
+Category: Order Issue - Stock Availability
+Order ID: ORD-883445
+Status: resolved
+Resolution: refund
+
+---
+
+[01:55 PM] Customer: Tomatoes removed from my order after checkout. Want a refund.
+
+[01:57 PM] Agent: Hi Arjun! Sorry about that. Let me check order ORD-883445.
+
+[01:58 PM] Agent: Confirmed — Tomatoes 500g (₹24) were removed during packing due to stock-out. I can process a refund or add QuickBasket credit. Which would you prefer?
+
+[01:59 PM] Customer: Refund to original payment method please
+
+[02:00 PM] Agent: Done! ₹24 refund initiated to your UPI account. Should reflect within 24 hours. Is there anything else I can help with?
+
+[02:00 PM] Customer: No thats it
+
+[02:01 PM] Agent: Alright, sorry again for the inconvenience. Have a good day, Arjun!
+
+---
+Internal Notes: Tomatoes 500g (₹24) OOS during packing. Straightforward refund — customer didn't want credit or explanation. Refund processed (RFD-20260119-4260). Another stock-flip instance. No escalation needed — customer seemed more indifferent than upset. Quick resolution.

@@ -1,0 +1,34 @@
+QUICKBASKET SUPPORT TRANSCRIPT
+Ticket ID: TKT-4241
+Date: 2026-01-15
+Customer: Deepa Menon
+Agent: Kavitha S.
+Category: Order Issue - Stock Availability
+Order ID: ORD-882980
+Status: resolved
+Resolution: credit + escalation
+
+---
+
+[11:47 AM] Customer: This is the THIRD time in two months that an item I ordered was shown as in stock and then silently removed from my order. Today it was paneer — 400g Amul Paneer. I'm done being patient about this.
+
+[11:49 AM] Agent: Hi Deepa, I'm really sorry to hear this keeps happening. Let me pull up your order ORD-882980 and your account history.
+
+[11:51 AM] Agent: I can confirm — Amul Paneer 400g (₹95) was removed during packing due to stock unavailability. And I can see from your history that you had the same issue on Dec 18 (green chillies) and Dec 29 (toor dal). I understand why you're frustrated — three times is not acceptable.
+
+[11:52 AM] Customer: Its not acceptable at all. Every time the agent says "we're working on fixing this" but nothing changes. I've been a QuickBasket customer for over a year. I order twice a week. And I keep getting burned by this same bug.
+
+[11:53 AM] Customer: Can I speak to a manager or someone who can actually do something about this?
+
+[11:55 AM] Agent: Deepa, your frustration is completely valid and I won't give you the same line again. Here's what I'm doing right now: (1) I've added ₹150 credit to your account — that covers the paneer plus extra for the pattern of issues, (2) I'm tagging your account as a priority escalation so this goes directly to our product head, not just the general feedback queue, (3) I'm requesting a callback from my team lead within the next 2 hours to speak with you personally.
+
+[11:56 AM] Customer: Fine. I appreciate the credit but I really want someone to explain why this keeps happening after months of complaints. Its not just me — I've seen people on Twitter complaining about the same thing.
+
+[11:58 AM] Agent: You're right, and the Twitter feedback has been flagged internally as well. The root cause is that our inventory system doesn't lock stock at the time of adding to cart — it only checks at the packing stage. It's a known architecture limitation and the fix (real-time stock reservation) is being built, but I honestly don't have a go-live date for it yet. I want to be transparent about that.
+
+[11:59 AM] Customer: At least you're being honest. Most agents just say "soon." Thank you Kavitha. I'll wait for the callback.
+
+[12:00 PM] Agent: You'll hear from Rajiv (my team lead) before 2 PM today. The ₹150 credit is already in your account. And I've personally added a note on your profile so any agent who handles your tickets in the future can see the escalation history. Thank you for your patience, Deepa.
+
+---
+Internal Notes: 3rd stock-flip incident for this customer in 60 days (Dec 18 green chillies, Dec 29 toor dal, Jan 15 paneer). High-value repeat customer — orders 2x/week, lifetime spend ₹48,000+. ₹150 credit applied. PRIORITY ESCALATION to product head (tagged Arun S.). Team lead Rajiv to callback by 2 PM. Customer mentioned Twitter complaints — cross-ref with social media monitoring. Inventory lock feature (JIRA ENG-2750) still in development, no confirmed release date. Retention risk: HIGH.

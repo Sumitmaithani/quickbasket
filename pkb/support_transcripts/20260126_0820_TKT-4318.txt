@@ -20,7 +20,7 @@ Resolution: refund
 
 [08:27 AM] Agent: You're absolutely right, and this has been escalated to our packaging team. For your current order, I'm processing an immediate refund of ₹42 for the eggs — it'll be credited to your original payment method within 24 hours. I'm also adding ₹30 credit to your account for the repeated inconvenience.
 
-[08:28 PM] Customer: Can you also flag that eggs should be packed on top or in a separate section? I've seen other delivery apps do that with a small egg tray.
+[08:28 AM] Customer: Can you also flag that eggs should be packed on top or in a separate section? I've seen other delivery apps do that with a small egg tray.
 
 [08:30 AM] Agent: That's excellent feedback, Farhan. I've noted it in our packaging improvement tracker. We're actually piloting protective egg trays in some zones — I'll check if your area (Koramangala) is part of that rollout. In the meantime, your ₹42 refund and ₹30 credit have been applied. Is there anything else?
 
