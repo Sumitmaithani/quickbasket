@@ -1,0 +1,32 @@
+QUICKBASKET SUPPORT TRANSCRIPT
+Ticket ID: TKT-4315
+Date: 2026-01-26
+Customer: Rohini Chatterjee
+Agent: Sneha T.
+Category: Coupons & Discounts
+Order ID: ORD-885150
+Status: resolved
+Resolution: credit
+
+---
+
+[02:45 PM] Customer: Applied the FRESH15 coupon — says "15% off on fruits and vegetables." My fruit and veg total is ₹340 so I expected ₹51 off. Only got ₹45. The math doesn't add up.
+
+[02:47 PM] Agent: Hi Rohini! Good catch on the numbers. Let me break down the discount for order ORD-885150.
+
+[02:50 PM] Agent: So your fruit and veg items total ₹340, but FRESH15 excludes items tagged as "organic" or "imported." You have Organic Spinach (₹40) in your cart, which falls under that exclusion. Eligible amount becomes ₹300, and 15% of ₹300 = ₹45. That's where the number comes from.
+
+[02:51 PM] Customer: Where does it say organic items are excluded? The coupon just says "15% off on fruits and vegetables." I had to do the math myself to even notice the gap.
+
+[02:53 PM] Agent: You're right — the main description doesn't mention it. The exclusion is in the Terms & Conditions behind a small info icon next to the coupon. I completely agree this isn't transparent enough. A ₹6 gap might seem small but it creates distrust when the numbers don't match your expectation.
+
+[02:54 PM] Customer: Exactly. If there are exclusions, put them in the description. Don't hide them behind a tiny (i) button nobody clicks. I spent 5 minutes recalculating thinking I messed up.
+
+[02:55 PM] Agent: Completely valid, Rohini. I'm logging this with the product team — exclusions need to be visible in the coupon description, not buried. Adding ₹10 credit to your account for the confusion. And honestly, customers who check the math help us find these gaps.
+
+[02:56 PM] Customer: Thanks Sneha. It's not about the ₹6. It's about trusting the app when it shows me a number.
+
+[02:56 PM] Agent: Couldn't agree more. Trust is everything. Have a good day, Rohini!
+
+---
+Internal Notes: FRESH15 coupon — 15% excludes organic & imported items. Organic Spinach (₹40) excluded, discount applied on ₹300 instead of ₹340. Exclusion only visible in T&C (info icon). ₹10 credit applied. UX feedback filed: surface key exclusions in coupon description. 6th complaint about hidden exclusions this month — pattern needs urgent fix.

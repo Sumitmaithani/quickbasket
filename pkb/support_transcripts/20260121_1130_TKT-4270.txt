@@ -1,0 +1,30 @@
+QUICKBASKET SUPPORT TRANSCRIPT
+Ticket ID: TKT-4270
+Date: 2026-01-21
+Customer: Meera Joshi
+Agent: Amit K.
+Category: Coupons & Discounts
+Order ID: ORD-883102
+Status: resolved
+Resolution: credit
+
+---
+
+[11:30 AM] Customer: I tried applying the WEEKEND30 coupon on my order but it just says "coupon cannot be applied." No reason, nothing. The banner on the home page is literally showing this coupon right now!
+
+[11:32 AM] Agent: Hi Meera! I apologize for the confusion. Let me look into the WEEKEND30 coupon and your order details.
+
+[11:34 AM] Agent: Found the issue — the WEEKEND30 coupon requires a minimum cart value of ₹599. Your current cart total is ₹542. The coupon is valid, but the minimum spend threshold wasn't met. I agree the error message should have told you this instead of just saying "cannot be applied."
+
+[11:35 AM] Customer: That's so annoying. The banner doesn't mention any minimum. It just says "30% off this weekend!" How am I supposed to know there's a ₹599 minimum?
+
+[11:37 AM] Agent: You're right, and I appreciate you pointing that out. The terms are buried in the fine print on the coupon detail page, but they should be visible on the banner itself. I'm logging this as a UX issue. For now, would you like to add items worth ₹57 or more to qualify? Or I can apply ₹50 credit to your account as an apology for the confusing experience.
+
+[11:38 AM] Customer: I'll take the credit. I don't want to buy stuff I don't need just to hit some hidden threshold. But seriously, fix that banner — it feels like bait.
+
+[11:39 AM] Agent: Completely understood, Meera. ₹50 credit applied — it's available now. And I've filed the feedback about the banner with our marketing and design teams. Thanks for helping us catch this!
+
+[11:40 AM] Customer: Thanks Amit. Quick resolution at least.
+
+---
+Internal Notes: WEEKEND30 coupon — min cart ₹599 not met (cart ₹542). Error message was generic "coupon cannot be applied" with no reason. ₹50 credit issued. UX ticket filed for clearer coupon error messages + banner terms visibility. 8th complaint about vague coupon errors this week — needs priority fix.

@@ -1,0 +1,30 @@
+QUICKBASKET SUPPORT TRANSCRIPT
+Ticket ID: TKT-4218
+Date: 2026-01-12
+Customer: Vikram Nair
+Agent: Sneha T.
+Category: Order Issue - Stock Availability
+Order ID: ORD-881876
+Status: resolved
+Resolution: credit
+
+---
+
+[08:41 PM] Customer: hey, just got my delivery and the coriander bunch is missing? it was definitely in my cart when i placed the order
+
+[08:43 PM] Agent: Hi Vikram! Sorry about the missing coriander. Let me check order ORD-881876.
+
+[08:44 PM] Agent: Yes, I can see Fresh Coriander Bunch (₹15) was removed during packing because it went out of stock at the warehouse. You should have received a notification about this — did you get one?
+
+[08:44 PM] Customer: nope nothing. found out when i opened the bag. needed it for the dal tonight lol
+
+[08:45 PM] Agent: That's not great — the notification should have gone out when the item was removed. I apologize for that. I'm adding ₹20 credit to your account for the inconvenience.
+
+[08:46 PM] Customer: ya its fine, not the end of the world. just annoying when you plan something and stuff randomly disappears from the order
+
+[08:47 PM] Agent: Totally understand. We're working on locking inventory when items are added to cart so this doesn't happen. Sorry again — the ₹20 credit is on your account now.
+
+[08:47 PM] Customer: cool thanks
+
+---
+Internal Notes: Coriander bunch (₹15) OOS during packing. Item removal notification did not reach customer — possible push notification silent failure. ₹20 credit applied. Customer not very upset, noted inconvenience. Stock-flip issue continuing — 6th report this week from Bangalore hubs.

@@ -1,0 +1,30 @@
+QUICKBASKET SUPPORT TRANSCRIPT
+Ticket ID: TKT-4375
+Date: 2026-02-01
+Customer: Tanvi Agarwal
+Agent: Priyanka V.
+Category: Order Issue - Damaged Item
+Order ID: ORD-889520
+Status: resolved
+Resolution: replacement
+
+---
+
+[11:20 AM] Customer: The Sleepy Owl cold coffee bottle in my order has a cracked cap and it leaked everywhere inside the bag. The paneer packet and bread are both soaked in coffee. Complete mess.
+
+[11:22 AM] Agent: Oh no, Tanvi! That sounds awful. Let me check your order ORD-889520 right away. Could you share a photo if you can?
+
+[11:24 AM] Customer: Sent. You can see the coffee pooling at the bottom. The paneer box is drenched and the bread packet is soggy.
+
+[11:26 AM] Agent: Got the photo, I can see the damage clearly. The bottle cap is cracked and the leak got to multiple items. Here's what I'm doing — replacement order for all 3 affected items: Sleepy Owl Cold Coffee (₹120), Fresh Paneer 200g (₹80), and Whole Wheat Bread (₹45). Total ₹245. Replacement arriving today between 2-4 PM.
+
+[11:27 AM] Customer: OK that works. But why was the coffee bottle packed in the same bag as paneer and bread? One cracked cap and three items are ruined.
+
+[11:29 AM] Agent: You're right — beverages and bottles should be packed in a separate compartment from perishables. That's actually in our warehouse packing guidelines. I'm flagging this as a packing SOP violation. Replacement order is created (ORD-889520-R), you'll get a notification when it's out for delivery. No need to return the damaged stuff.
+
+[11:30 AM] Customer: Thanks Priyanka. Hope the packing is better this time around.
+
+[11:30 AM] Agent: Added a note to the replacement for careful packing. Sorry again about the mess, Tanvi!
+
+---
+Internal Notes: Sleepy Owl Cold Coffee bottle — cracked cap, leaked onto paneer and bread in same bag. Packing SOP violation: bottles must go in separate compartment. Photo evidence saved. Replacement order ORD-889520-R for 3 items (₹245). No return needed. Reported to warehouse Hub-2 (Packer WH-1189). Audit recommended for bottle packing compliance.

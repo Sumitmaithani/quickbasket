@@ -1,0 +1,30 @@
+QUICKBASKET SUPPORT TRANSCRIPT
+Ticket ID: TKT-4420
+Date: 2026-02-04
+Customer: Farhan Sheikh
+Agent: Kavitha S.
+Category: Order Issue - Damaged Item
+Order ID: ORD-891673
+Status: resolved
+Resolution: refund
+
+---
+
+[08:20 AM] Customer: Just got my order. 4 out of 6 eggs cracked. Attaching photo. This is the second time in a month I've gotten broken eggs from you guys.
+
+[08:22 AM] Agent: Morning Farhan! Really sorry about that. Let me pull up ORD-891673 and check the photo.
+
+[08:24 AM] Agent: I can see the damage — 4 cracked out of 6 (₹42 for the pack). And yes, I can see a similar complaint on Jan 5 from your account. Twice in one month is not OK and I apologize.
+
+[08:25 AM] Customer: The problem is obvious — they just chuck the eggs in the bag with heavy stuff. Last time the eggs were under a 2-litre milk carton. Who packs like that?
+
+[08:27 AM] Agent: You're completely right. Eggs should be packed on top or in a separate section, never under heavy items. I'm processing an immediate ₹42 refund to your original payment method — should show up within 24 hrs. Also adding ₹30 credit for the repeated issue.
+
+[08:28 AM] Customer: Appreciate it. Also — some apps use a small cardboard egg tray insert for delivery. Maybe look into that? Costs almost nothing and would fix this.
+
+[08:30 AM] Agent: Great suggestion actually. We're piloting egg trays in a few zones — let me check if Koramangala is included. Either way I'll flag your area for priority. Your ₹42 refund and ₹30 credit are done. Anything else?
+
+[08:31 AM] Customer: Nah that's it. Thanks Kavitha. Fingers crossed on the egg tray thing.
+
+---
+Internal Notes: Repeat cracked eggs — 2nd time in 30 days for this customer. Photo confirmed 4/6 cracked. Eggs were packed under 2L milk carton and atta bag. ₹42 refund (RFD-20260204-4420) + ₹30 credit. Koramangala not yet in egg tray pilot — recommend adding to next wave. Packing SOP violation: fragile items on bottom. Feedback to warehouse Hub-2 packaging team.
